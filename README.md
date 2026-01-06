@@ -1,4 +1,6 @@
 Hi👋 I am Anuj Kumar
+# 3rd year Btech student at Nit jamshedpur
+# Email : kumaranuj98208@gmail.com
 
 # 💫 About Me:
 💡 Full Stack Web Developer.<br>🧠 Strong interest in  Data Structure and Algorithm  & problem solving <br>🧠 Strong interest in  Backend (Spring boot)
